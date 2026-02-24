@@ -1,6 +1,4 @@
-from funcao import bem_vindo, jogo
-
-bem_vindo.boas_vinda()
+from funcao import jogo
 
 #Função para escolher o modo de jogo (No momento só terá 2)
 def modo_de_Jogo():
