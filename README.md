@@ -26,3 +26,11 @@ Neste código eu quis fazer o jogo clássico de Pedra, Papel e Tesoura. Aonde vo
 - Tratamento de Excessões (`try/except`)
 - Uso de Biblioteca padrão (`random`, `time`)
 - Implementação de lógica de jogo e sistema de pontuação
+
+## 🔄️ Atualizações
+
+- [ ] Correção da lógica de pontuação
+- [ ] Implementação correta da regra da maioria
+- [ ] Encerramento antecipado da partida
+- [ ] Escolha personalizada de número de rodadas
+- [ ] Refatoração da estrutura condicional
